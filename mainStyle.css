@@ -1,0 +1,43 @@
+/* header style */
+.header{
+  color: #FFF;
+  background-color:#000;
+  font-family:'Times New Roman', Times, serif;
+  border-style:solid;
+  border-color:#FFF;
+  border-radius:.3em;
+}
+
+/*controls box around userarea*/
+
+.userArea{
+  border-style:solid;
+  border-color:#FFF;
+  background-color:abg(3,75,255);
+}
+
+html, body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+
+.image{ 
+  background:url("http://www.mrgeek.me/wp-content/uploads/2012/12/Manchester-City-wins-Premier-League-for-first-time.jpg") center center no-repeat;
+  background-size:cover;
+  background-attachment:fixed;}
+      
+.image2{ 
+  background:url(http://www.wpmap.org/wp-content/uploads/2015/11/world-map.gif) center center no-repeat;
+  }
+
+   
