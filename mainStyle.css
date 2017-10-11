@@ -13,7 +13,9 @@
 .userArea{
   border-style:solid;
   border-color:#FFF;
-  background-color:abg(3,75,255);
+  background-color:#0314ff;
+  padding: 0em 1em 1em 1em;
+  border-radius: .5em;
 }
 
 html, body {
