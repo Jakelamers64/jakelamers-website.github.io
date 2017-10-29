@@ -63,12 +63,20 @@ body {
 /* bakground image style*/
 
 .image{ 
-  background:url("http://www.mrgeek.me/wp-content/uploads/2012/12/Manchester-City-wins-Premier-League-for-first-time.jpg") center center no-repeat;
+  background: url("http://www.mrgeek.me/wp-content/uploads/2012/12/Manchester-City-wins-Premier-League-for-first-time.jpg") center center no-repeat;
   background-size:cover;
   background-attachment:fixed;}
       
 .image2{ 
-  background:url(http://www.wpmap.org/wp-content/uploads/2015/11/world-map.gif) center center no-repeat;
+  background: url(http://www.wpmap.org/wp-content/uploads/2015/11/world-map.gif) center center no-repeat;
   }
+
+.image3{
+  background: url(https://thumbs.dreamstime.com/b/vintage-map-spain-portugal-3882721.jpg) center center no-repeat;   
+}
+
+.image4{
+    background: url(https://lonelyplanetimages.imgix.net/mastheads/GettyImages-163188684_medium.jpg?sharp=10&vib=20&w=1200) center center no-repeat; 
+}
 
    
