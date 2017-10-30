@@ -2,7 +2,7 @@
 function check(form) {
     
     if (form.userid.value === "Jakelamers931" && form.pswrd.value === "Bigred77") {
-      window.open('https://jakelamers64.github.io/HomePageJL/.');
+      window.open('https://jakelamers64.github.io/HomePageJL/');
 	} else {
       alert("username and password not found");
 	}
